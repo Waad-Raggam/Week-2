@@ -1,0 +1,14 @@
+/Users/andrea/teaching/sda-c/demo-class/Demo5/bin/Debug/net8.0/Demo5
+/Users/andrea/teaching/sda-c/demo-class/Demo5/bin/Debug/net8.0/Demo5.deps.json
+/Users/andrea/teaching/sda-c/demo-class/Demo5/bin/Debug/net8.0/Demo5.runtimeconfig.json
+/Users/andrea/teaching/sda-c/demo-class/Demo5/bin/Debug/net8.0/Demo5.dll
+/Users/andrea/teaching/sda-c/demo-class/Demo5/bin/Debug/net8.0/Demo5.pdb
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.AssemblyInfoInputs.cache
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.AssemblyInfo.cs
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.csproj.CoreCompileInputs.cache
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.dll
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/refint/Demo5.dll
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.pdb
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/Demo5.genruntimeconfig.cache
+/Users/andrea/teaching/sda-c/demo-class/Demo5/obj/Debug/net8.0/ref/Demo5.dll
