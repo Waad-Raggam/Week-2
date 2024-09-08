@@ -1,0 +1,14 @@
+/Users/andrea/Desktop/demo-class/Demo9/bin/Debug/net8.0/Demo9
+/Users/andrea/Desktop/demo-class/Demo9/bin/Debug/net8.0/Demo9.deps.json
+/Users/andrea/Desktop/demo-class/Demo9/bin/Debug/net8.0/Demo9.runtimeconfig.json
+/Users/andrea/Desktop/demo-class/Demo9/bin/Debug/net8.0/Demo9.dll
+/Users/andrea/Desktop/demo-class/Demo9/bin/Debug/net8.0/Demo9.pdb
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.AssemblyInfo.cs
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.csproj.CoreCompileInputs.cache
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.dll
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/refint/Demo9.dll
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.pdb
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/Demo9.genruntimeconfig.cache
+/Users/andrea/Desktop/demo-class/Demo9/obj/Debug/net8.0/ref/Demo9.dll
